@@ -21,4 +21,5 @@ int main()
     else{ cout << "2" << endl;}
 
     cout << "a = " << a << " b = " << b << endl;
+
 }
